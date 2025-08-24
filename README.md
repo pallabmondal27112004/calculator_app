@@ -2,8 +2,8 @@
 
 A simple and beautiful **Calculator Application** built using **Flutter**. This app supports basic arithmetic operations with a clean and responsive UI.
 
-![Calculator App Screenshot](assets/screenshot.png)  
-*(Replace `assets/screenshot.png` with your actual image path or hosted image link)*
+![Calculator App Screenshot])  
+<img width="5710" height="2120" alt="Image" src="https://github.com/user-attachments/assets/7e0b1152-2d71-45f1-920f-8c7b8e73f711" />
 
 ---
 
